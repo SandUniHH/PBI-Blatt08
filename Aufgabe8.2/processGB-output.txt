@@ -1,0 +1,231 @@
+ACCESSION   AB031069
+ACCESSION   XM_009873
+ACCESSION   XM_006269
+ACCESSION   XM_006271
+ACCESSION   NM_021964
+BASE COUNT      564 a    715 c    768 g    440 t
+BASE COUNT      396 a    723 c    677 g    464 t
+BASE COUNT      486 a    360 c    401 g    499 t
+BASE COUNT      505 a    394 c    426 g    493 t      1 others
+BASE COUNT      986 a    621 c    658 g    767 t
+DEFINITION  Homo sapiens PCCX1 mRNA for protein containing CXXC domain 1,
+            complete cds.
+DEFINITION  Homo sapiens matrix metalloproteinase 11 (stromelysin 3) (MMP11),
+            mRNA.
+DEFINITION  Homo sapiens matrix metalloproteinase 10 (stromelysin 2) (MMP10),
+            mRNA.
+DEFINITION  Homo sapiens matrix metalloproteinase 3 (stromelysin 1,
+            progelatinase) (MMP3), mRNA.
+DEFINITION  Homo sapiens zinc finger protein 148 (pHZ-52) (ZNF148), mRNA.
+LOCUS       AB031069     2487 bp    mRNA            PRI       27-MAY-2000
+LOCUS       XM_009873    2260 bp    mRNA            PRI       16-APR-2001
+LOCUS       XM_006269    1746 bp    mRNA            PRI       16-APR-2001
+LOCUS       XM_006271    1819 bp    mRNA            PRI       16-APR-2001
+LOCUS       NM_021964    3032 bp    mRNA            PRI       14-MAR-2001
+>Homo sapiens PCCX1 mRNA for protein containing CXXC domain 1, complete cds.
+agatggcggcgctgaggggtcttgggggctctaggccggccacctactggtttgcagcggagacgacgca
+tggggcctgcgcaataggagtacgctgcctgggaggcgtgactagaagcggaagtagttgtgggcgcctt
+tgcaaccgcctgggacgccgccgagtggtctgtgcaggttcgcgggtcgctggcgggggtcgtgagggag
+tgcgccgggagcggagatatggagggagatggttcagacccagagcctccagatgccggggaggacagca
+agtccgagaatggggagaatgcgcccatctactgcatctgccgcaaaccggacatcaactgcttcatgat
+cgggtgtgacaactgcaatgagtggttccatggggactgcatccggatcactgagaagatggccaaggcc
+atccgggagtggtactgtcgggagtgcagagagaaagaccccaagctagagattcgctatcggcacaaga
+agtcacgggagcgggatggcaatgagcgggacagcagtgagccccgggatgagggtggagggcgcaagag
+gcctgtccctgatccagacctgcagcgccgggcagggtcagggacaggggttggggccatgcttgctcgg
+ggctctgcttcgccccacaaatcctctccgcagcccttggtggccacacccagccagcatcaccagcagc
+agcagcagcagatcaaacggtcagcccgcatgtgtggtgagtgtgaggcatgtcggcgcactgaggactg
+tggtcactgtgatttctgtcgggacatgaagaagttcgggggccccaacaagatccggcagaagtgccgg
+ctgcgccagtgccagctgcgggcccgggaatcgtacaagtacttcccttcctcgctctcaccagtgacgc
+cctcagagtccctgccaaggccccgccggccactgcccacccaacagcagccacagccatcacagaagtt
+agggcgcatccgtgaagatgagggggcagtggcgtcatcaacagtcaaggagcctcctgaggctacagcc
+acacctgagccactctcagatgaggacctacctctggatcctgacctgtatcaggacttctgtgcagggg
+cctttgatgaccatggcctgccctggatgagcgacacagaagagtccccattcctggaccccgcgctgcg
+gaagagggcagtgaaagtgaagcatgtgaagcgtcgggagaagaagtctgagaagaagaaggaggagcga
+tacaagcggcatcggcagaagcagaagcacaaggataaatggaaacacccagagagggctgatgccaagg
+accctgcgtcactgccccagtgcctggggcccggctgtgtgcgccccgcccagcccagctccaagtattg
+ctcagatgactgtggcatgaagctggcagccaaccgcatctacgagatcctcccccagcgcatccagcag
+tggcagcagagcccttgcattgctgaagagcacggcaagaagctgctcgaacgcattcgccgagagcagc
+agagtgcccgcactcgccttcaggaaatggaacgccgattccatgagcttgaggccatcattctacgtgc
+caagcagcaggctgtgcgcgaggatgaggagagcaacgagggtgacagtgatgacacagacctgcagatc
+ttctgtgtttcctgtgggcaccccatcaacccacgtgttgccttgcgccacatggagcgctgctacgcca
+agtatgagagccagacgtcctttgggtccatgtaccccacacgcattgaaggggccacacgactcttctg
+tgatgtgtataatcctcagagcaaaacatactgtaagcggctccaggtgctgtgccccgagcactcacgg
+gaccccaaagtgccagctgacgaggtatgcgggtgcccccttgtacgtgatgtctttgagctcacgggtg
+acttctgccgcctgcccaagcgccagtgcaatcgccattactgctgggagaagctgcggcgtgcggaagt
+ggacttggagcgcgtgcgtgtgtggtacaagctggacgagctgtttgagcaggagcgcaatgtgcgcaca
+gccatgacaaaccgcgcgggattgctggccctgatgctgcaccagacgatccagcacgatcccctcacta
+ccgacctgcgctccagtgccgaccgctgagcctcctggcccggaccccttacaccctgcattccagatgg
+gggagccgcccggtgcccgtgtgtccgttcctccactcatctgtttctccggttctccctgtgcccatcc
+accggttgaccgcccatctgcctttatcagagggactgtccccgtcgacatgttcagtgcctggtggggc
+tgcggagtccactcatccttgcctcctctccctgggttttgttaataaaattttgaagaaaccaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>Homo sapiens matrix metalloproteinase 11 (stromelysin 3) (MMP11), mRNA.
+aagcccagcagccccggggcggatggctccggccgcctggctccgcagcgcggccgcgcgcgccctcctg
+cccccgatgctgctgctgctgctccagccgccgccgctgctggcccgggctctgccgccggacgcccacc
+acctccatgccgagaggagggggccacagccctggcatgcagccctgcccagtagcccggcacctgcccc
+tgccacgcaggaagccccccggcctgccagcagcctcaggcctccccgctgtggcgtgcccgacccatct
+gatgggctgagtgcccgcaaccgacagaagaggttcgtgctttctggcgggcgctgggagaagacggacc
+tcacctacaggatccttcggttcccatggcagttggtgcaggagcaggtgcggcagacgatggcagaggc
+cctaaaggtatggagcgatgtgacgccactcacctttactgaggtgcacgagggccgtgctgacatcatg
+atcgacttcgccaggtactggcatggggacgacctgccgtttgatgggcctgggggcatcctggcccatg
+ccttcttccccaagactcaccgagaaggggatgtccacttcgactatgatgagacctggactatcgggga
+tgaccagggcacagacctgctgcaggtggcagcccatgaatttggccacgtgctggggctgcagcacaca
+acagcagccaaggccctgatgtccgccttctacacctttcgctacccactgagtctcagcccagatgact
+gcaggggcgttcaacacctatatggccagccctggcccactgtcacctccaggaccccagccctgggccc
+ccaggctgggatagacaccaatgagattgcaccgctggagccagacgccccgccagatgcctgtgaggcc
+tcctttgacgcggtctccaccatccgaggcgagctctttttcttcaaagcgggctttgtgtggcgcctcc
+gtgggggccagctgcagcccggctacccagcattggcctctcgccactggcagggactgcccagccctgt
+ggacgctgccttcgaggatgcccagggccacatttggttcttccaaggtgctcagtactgggtgtacgac
+ggtgaaaagccagtcctgggccccgcacccctcaccgagctgggcctggtgaggttcccggtccatgctg
+ccttggtctggggtcccgagaagaacaagatctacttcttccgaggcagggactactggcgtttccaccc
+cagcacccggcgtgtagacagtcccgtgccccgcagggccactgactggagaggggtgccctctgagatc
+gacgctgccttccaggatgctgatggctatgcctacttcctgcgcggccgcctctactggaagtttgacc
+ctgtgaaggtgaaggctctggaaggcttcccccgtctcgtgggtcctgacttctttggctgtgccgagcc
+tgccaacactttcctctgaccatggcttggatgccctcaggggtgctgacccctgccaggccacgaatat
+caggctagagacccatggccatctttgtggctgtgggcaccaggcatgggactgagcccatgtctcctca
+gggggatggggtggggtacaaccaccatgacaactgccgggagggccacgcaggtcgtggtcacctgcca
+gcgactgtctcagactgggcagggaggctttggcatgacttaagaggaagggcagtcttgggcccgctat
+gcaggtcctggcaaacctggctgccctgtctccatccctgtccctcagggtagcaccatggcaggactgg
+gggaactggagtgtccttgctgtatccctgttgtgaggttccttccaggggctggcactgaagcaagggt
+gctggggccccatggccttcagccctggctgagcaactgggctgtagggcagggccacttcctgaggtca
+ggtcttggtaggtgcctgcatctgtctgccttctggctgacaatcctggaaatctgttctccagaatcca
+ggccaaaaagttcacagtcaaatggggaggggtattcttcatgcaggagaccccaggccctggaggctgc
+aacatacctcaatcctgtcccaggccggatcctcctgaagcccttttcgcagcactgctatcctccaaag
+ccattgtaaatgtgtgtacagtgtgtataaaccttcttcttctttttttttttttaaactgaggattgtc
+attaaacacagttgttttct
+>Homo sapiens matrix metalloproteinase 10 (stromelysin 2) (MMP10), mRNA.
+aaagaaggtaagggcagtgagaatgatgcatcttgcattccttgtgctgttgtgtctgccagtctgctct
+gcctatcctctgagtggggcagcaaaagaggaggactccaacaaggatcttgcccagcaatacctagaaa
+agtactacaacctcgaaaaggatgtgaaacagtttagaagaaaggacagtaatctcattgttaaaaaaat
+ccaaggaatgcagaagttccttgggttggaggtgacagggaagctagacactgacactctggaggtgatg
+cgcaagcccaggtgtggagttcctgacgttggtcacttcagctcctttcctggcatgccgaagtggagga
+aaacccaccttacatacaggattgtgaattatacaccagatttgccaagagatgctgttgattctgccat
+tgagaaagctctgaaagtctgggaagaggtgactccactcacattctccaggctgtatgaaggagaggct
+gatataatgatctcttttgcagttaaagaacatggagacttttactcttttgatggcccaggacacagtt
+tggctcatgcctacccacctggacctgggctttatggagatattcactttgatgatgatgaaaaatggac
+agaagatgcatcaggcaccaatttattcctcgttgctgctcatgaacttggccactccctggggctcttt
+cactcagccaacactgaagctttgatgtacccactctacaactcattcacagagctcgcccagttccgcc
+tttcgcaagatgatgtgaatggcattcagtctctctacggacctccccctgcctctactgaggaacccct
+ggtgcccacaaaatctgttccttcgggatctgagatgccagccaagtgtgatcctgctttgtccttcgat
+gccatcagcactctgaggggagaatatctgttctttaaagacagatatttttggcgaagatcccactgga
+accctgaacctgaatttcatttgatttctgcattttggccctctcttccatcatatttggatgctgcata
+tgaagttaacagcagggacaccgtttttatttttaaagtaggaaatgagttctgggccatcagaggaaat
+gaggtacaagcaggttatccaagaggcatccataccctgggttttcctccaaccataaggaaaattgatg
+cagctgtttctgacaaggaaaagaagaaaacatacttctttgcagcggacaaatactggagatttgatga
+aaatagccagtccatggagcaaggcttccctagactaatagctgatgactttccaggagttgagcctaag
+gttgatgctgtattacaggcatttggatttttctacttcttcagtggatcatcacagtttgagtttgacc
+ccaatgccaggatggtgacacacatattaaagagtaacagctggttacattgctaggcgagataggggga
+agacagatatgggtgtttttaataaatctaataattattcatctaatgtattatgaggcaaaatggttaa
+tttttcctgcatgttctgtgactgaagaagatgagccttgcagatatctgcatgtgttatgaagaatgtt
+tctggaattcttcacttgcttttgaattgcactgaacagaattaagaaatactcatgtgcaataggtgag
+agaatgtattttcatagatgtgttattacttcctcaataaaaagttttattttgggcctgttcctt
+>Homo sapiens matrix metalloproteinase 3 (stromelysin 1, progelatinase) (MMP3), mRNA.
+acaaggaggcaggcaagacagcaaggcatagagacaacatagagctaagtaaagccagtggaaatgaaga
+gtcttccaatcctactgttgctgtgcgtggcagtttgctcagcctatccattggatggagctgcaagggg
+tgaggacaccagcatgaaccttgttcagaatatctagaaaactactacgacctcaaaaaagatgtgaaac
+agtttgttaggagaaaggacagtggtcctgttgttaaaaaaatccgagaaatgcagaagttccttggatt
+ggaggtgacggggaagctggactccgacactctggaggtgatgcgcaagcccaggtgtggagttcctgat
+gttggtcacttcagaacctttcctggcatcccgaagtggaggaaaacccaccttacatacaggattgtga
+attatacaccagatttgccaaaagatgctgttgattctgctgttgagaaagctctgaaagtctgggaaga
+ggtgactccactcacattctccaggctgtatgaaggagaggctgatataatgatctcttttgcagttaga
+gaacatggagacttttacccttttgatggacctggaaatgttttggcccatgcctatgcccctgggccag
+ggattaatggagatgcccactttgatgatgatgaacaatggacaaaggatacaacagggaccaatttatt
+tctcgttgctgctcatgaaattggccactccctgggtctctttcactcagccaacactgaagctttgatg
+tacccactctatcactcactcacagacctgactcggttccgcctgtctcaagatgatataaatggcattc
+agtccctctatgacctccccctgactcccctgagacccccctggtacccacggaacctgtccctccagaa
+cctgggacgccagccaactgtgatcctgctttgtcctttgatgctgtcagcactctgaggggagaaatcc
+tgatctttaaagacaggcacttttggcgcaaatccctcaggaagcttgaacctgaattgcatttgatctc
+ttcattttggccatctcttccttcaggcgtggatgccgcatatgaagttactagcaaggacctcgttttc
+atttttaaagngaaatcaattctgggctatcagaggaaatgaggtacgagctggatacccaagaggcatc
+cacaccctaggtttccctccaaccgtgaggaaaatcgatgcagccatttctgataaggaaaagaacaaaa
+catatttctttgtagaggacaaatactggaggtgagatgcaagagaaattccatggagccaggctttccc
+aagcaaatagctgaagactttccagggattgactcaaagattgatgctgtttttgaagaatttgggttct
+tttatttctttactggatcttcacagttggagtttgacccaaatgcaaagaaagtgacacacactttgaa
+gagtaacagctggcttaattgttgaaagagatatgtagaaggcacaatatgggcactttaaatgaagcta
+ataattcttcacctaagtctctgtgaattgaaatgttcgttttctcctgcctgtgctgtgactcgagtca
+cactcaagggaacttgagcgtgaatctgtatcttgccggtcatttttatgttattacagggcattcaaat
+gggctgctgcttagcttgcaccttgtcacatagagtgatctttcccaagagaaggggaagcactcgtgtg
+caacagacaagtgactgtatctgtgtagactatttgcttatttaataaagacgatttgtcagttatttt
+>Homo sapiens zinc finger protein 148 (pHZ-52) (ZNF148), mRNA.
+gaattccggagaaaggcgcaggggtgggagctgttgccgaagctgccacagcaaaagttctcccccctcc
+ccccttcccctcctctcaaggcccctagaaaggttggagctgccggccctgcagtcggtgaccgctgacg
+acttcggccgcgcccgcggatagcgggaggaatcagcagcttggaaattcaagcacgtgatctggcggga
+tgggcgtttgcctaacgtatttaatggaggaatcggatggcataagtgattaaggtggtattgaggattt
+ctgaagcctatgaaaggtagaaactcaaccatgatttctttttcaactctacagcattcctttccttgaa
+gtcttcgtttttaccttagtctcgggcagttatacttaagcatgaacattgacgacaaactggaaggatt
+gtttcttaaatgtggcggcatagacgaaatgcagtcttccaggacaatggttgtaatgggtggagtgtct
+ggccagtctactgtgtctggagagctacaggattcagtacttcaagatcgaagtatgcctcaccaggaga
+tccttgctgcagatgaagtgttacaagaaagtgaaatgagacaacaggatatgatatcacatgatgaact
+catggtccatgaggagacagtgaaaaatgatgaagagcagatggaaacacatgaaagacttcctcaagga
+ctacagtatgcacttaatgtccctataagcgtaaagcaggaaattacttttactgatgtatctgagcaac
+tgatgagagacaaaaaacaaatcagagagccagtagacttacagaaaaagaagaagcggaaacaacgttc
+tcccgcaaaaatccttacaataaatgaggatggatcacttggtttgaaaacccctaaatctcacgtttgt
+gagcactgcaatgctgcctttagaacgaactatcacttacagagacatgtcttcattcatacaggtgaaa
+aaccatttcaatgtagtcaatgtgacatgcgtttcatacagaagtacctgcttcagagacatgagaagat
+tcatactggtgaaaaaccatttcgctgtgatgaatgtggtatgagattcatacaaaaatatcatatggaa
+aggcataagagaactcatagtggagaaaaaccttaccagtgtgaatactgtttacagtatttttccagaa
+cagatcgtgtattgaaacataaacgtatgtgccatgaaaatcatgacaaaaaactaaatacatgtgccat
+caaaggtggccttctgacatctgaggaagattctggcttttctacatcaccaaaagacaactcactgcca
+aaaaagaaaaggcagaaaacggagaaaaaatcatctggaatggacaaagagagtgctttggacaaatctg
+acctgaaaaaagacaaaaatgattacttgcctgtttattcttcaagtactaaagtaaaagatgagtatat
+ggttgcagaatatgctgttgaaatgccacattcgtcagttgggggctcgcatttagaagatgcgtcagga
+gaaatacacccacctaagttagttctcaaaaaaattaatagtaagagaagtctgaaacagccactggagc
+aaaatcaaacaatttcacctttatccacatatgaagagagcaaagtttcaaagtatgcttttgaacttgt
+ggataaacaggctttactggactcagaaggcaatgctgacattgatcaggttgataatttgcaggagggg
+cccagtaaacctgtgcatagtagtactaattatgatgatgccatgcagtttttgaagaagaagcggtatc
+ttcaagcagcaagtaacaacagcagggaatatgcgctgaatgtgggtaccatacgttctcagccttctgt
+aacacaagcagctgtggcaagtgtcattgatgaaagtaccacggcatccatattagagtcacaggcactg
+aatgtggagattaagagtaatcatgacaaaaatgttattccagatgaggtactgcagactctgttggatc
+attattcccacaaagctaatggacagcatgagatatccttcagtgttgcagatactgaagtgacttctag
+catatcaataaattcttcagaagtaccagaggtcaccccatcagagaatgttggatcaagctcccaagca
+tcctcatcagataaagccaacatgttgcaggaatactccaagtttctgcagcaggctttggacagaacta
+gccaaaatgatgcctatttgaatagcccgagccttaactttgtgactgataaccagaccctcccaaatca
+gccagcattctcttccatagacaagcaggtctatgccaccatgcccatcaatagctttcgatcaggaatg
+aattctccactaagaacaactccagataagtcccactttggactaatagttggtgattcacagcactcat
+ttcccttttcaggtgatgagacaaaccatgcttctgccacatcaacacaggactttctggatcaagtcac
+ttctcagaagaaagctgaggcccagcctgtccaccaagcttaccaaatgagctcctttgaacagcccttc
+cgtgctccctatcatggatcaagagctggaatagctactcaatttagcactgccaatggacaggtgaacc
+ttcggggaccagggacaagtgctgaattttcagaatttcccttggtgaatgtaaatgataatagagctgg
+gatgacatcttcacctgatgccacaactggccagacttttggctaaaaaaaaaaaaaaagtgaaataata
+ctggcactttagaacagattaatcaagagtggggttactatgtgtaaatggagtgctgtacagatttaag
+agcaatgcgtaataacaagttaagctgatatacgatgataataactgcatttcgtttggttagtcagcat
+tctttgaactgccttacatgttgtcacctttatagaagcaatgcattacttgttttagatcagaaacttg
+ctattccacccacaccaagtaa
+LOCUS       AB031069     2487 bp    mRNA            PRI       27-MAY-2000
+DEFINITION  Homo sapiens PCCX1 mRNA for protein containing CXXC domain 1,
+            complete cds.
+LOCUS       XM_009873    2260 bp    mRNA            PRI       16-APR-2001
+DEFINITION  Homo sapiens matrix metalloproteinase 11 (stromelysin 3) (MMP11),
+            mRNA.
+LOCUS       XM_006269    1746 bp    mRNA            PRI       16-APR-2001
+DEFINITION  Homo sapiens matrix metalloproteinase 10 (stromelysin 2) (MMP10),
+            mRNA.
+LOCUS       XM_006271    1819 bp    mRNA            PRI       16-APR-2001
+DEFINITION  Homo sapiens matrix metalloproteinase 3 (stromelysin 1,
+            progelatinase) (MMP3), mRNA.
+LOCUS       NM_021964    3032 bp    mRNA            PRI       14-MAR-2001
+DEFINITION  Homo sapiens zinc finger protein 148 (pHZ-52) (ZNF148), mRNA.
+LOCUS       NM_021964    3032 bp    mRNA            PRI       14-MAR-2001
+(?-mix:NM_021964) matches in ACCESSION
+
+LOCUS       NM_021964    3032 bp    mRNA            PRI       14-MAR-2001
+(?-mix:986) matches in BASE COUNT
+
+LOCUS       XM_006269    1746 bp    mRNA            PRI       16-APR-2001
+(?-mix:MMP10) matches in DEFINITION
+
+LOCUS       XM_009873    2260 bp    mRNA            PRI       16-APR-2001
+(?-mix:Zinc-dependent) matches in FEATURES
+
+LOCUS       XM_006269    1746 bp    mRNA            PRI       16-APR-2001
+(?-mix:Zinc-dependent) matches in FEATURES
+
+LOCUS       XM_006271    1819 bp    mRNA            PRI       16-APR-2001
+(?-mix:Zinc-dependent) matches in FEATURES
+
+LOCUS       XM_006269    1746 bp    mRNA            PRI       16-APR-2001
+(?-mix:XM_006269) matches in LOCUS
+
+LOCUS       XM_006271    1819 bp    mRNA            PRI       16-APR-2001
+(?-mix:ctgatgttggtcacttc) matches in ORIGIN at positions 345
+
